@@ -8,7 +8,7 @@ Also, in the test folder there are two python scripts that autofill the app (usi
 All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 ## Screenshot of the App
-![App](https://github.com/DiegoCefalo/HeartCare/blob/main/img/page.png)
+![App](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/ejemplo-modelo.jpg)
 
 ## Accuracy
 ![HeartCare](https://github.com/DiegoCefalo/HeartCare/blob/main/img/accuracy.png)
