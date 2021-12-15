@@ -96,6 +96,5 @@ if st.button("Predecir"):
     variables = {'Age':age, 'RestingBP':restingbp, 'Cholesterol':cholesterol, 'FastingBS':blood_sugar, 'MaxHR':maxhr, 'Oldpeak':oldpeak, 'Sex_M':sex, 'ChestPainType_ATA':type_pain1, 'ChestPainType_NAP':type_pain2, 'ChestPainType_TA':type_pain3, 'RestingECG_Normal':ecg1, 'RestingECG_ST':ecg2, 'ExerciseAngina_Y':exercise_angina, 'ST_Slope_Flat':slope1, 'ST_Slope_Up':slope2}
     series = pd.Series(variables)
     feed = pd.DataFrame(series).transpose()
-    st.dataframe(feed)
     prediction = model.predict_proba(feed)
     st.write(f"# Tiene un {round(prediction[0][1]*100,1)}% de probabilidad de tener alguna enfermedad cardiovascular no diagnosticada")
