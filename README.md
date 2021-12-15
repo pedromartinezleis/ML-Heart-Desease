@@ -16,7 +16,5 @@ All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failur
  * [Numpy](https://numpy.org/doc/stable/)
  * [Seaborn](https://seaborn.pydata.org/)
  * [Matplotlib](https://matplotlib.org/stable/index.html)
- * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
- * [Hyperopt](http://hyperopt.github.io/hyperopt/)
  * [Pickle](https://docs.python.org/3/library/pickle.html)
  * [Gradient Boosting Algorithm](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
