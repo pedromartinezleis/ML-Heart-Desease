@@ -1,5 +1,5 @@
 ![HeartCare](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/logo_sergas2.png)
-# HeartCare
+# About the project
 Machine Learning Model that predicts undiagnosed heart Disease.  
 The model used was Gradient Boosting Algorithm. It was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
   
