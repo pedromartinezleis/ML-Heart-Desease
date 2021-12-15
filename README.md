@@ -1,10 +1,8 @@
 ![HeartCare](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/logo_sergas2.png)
 # HeartCare
 Machine Learning Model that predicts undiagnosed heart Disease.  
-The model used was XGBoostClassifier and it was optimized with Hyperopt. It was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
-
-This repository includes a presentation of the project in the "PresentationHeartcare.pdf".   
-Also, in the test folder there are two python scripts that autofill the app (using Selenium) for a quick demonstration.  
+The model used was Gradient Boosting Algorithm. It was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
+  
 All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 ## Screenshot of the App
@@ -21,4 +19,4 @@ All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failur
  * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
  * [Hyperopt](http://hyperopt.github.io/hyperopt/)
  * [Pickle](https://docs.python.org/3/library/pickle.html)
- * [Selenium](https://www.selenium.dev/documentation/)
+ * [Gradient Boosting Algorithm](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
