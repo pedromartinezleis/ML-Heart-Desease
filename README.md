@@ -1,4 +1,4 @@
-![HeartCare](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/heart-1596700238.jpg)
+![HeartCare](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/logo_sergas2.png)
 # HeartCare
 Machine Learning Model that predicts undiagnosed heart Disease.  
 The model used was XGBoostClassifier and it was optimized with Hyperopt. It was trained with over 900 observations from Cleveland, Hungary, Switzerland, Long Beach CA, Stalog (Heart) Data Set.  
