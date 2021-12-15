@@ -11,7 +11,7 @@ All the data was obtained from:  https://www.kaggle.com/fedesoriano/heart-failur
 ![App](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/ejemplo-modelo.jpg)
 
 ## Accuracy
-![HeartCare](https://github.com/DiegoCefalo/HeartCare/blob/main/img/accuracy.png)
+![HeartCare](https://github.com/pedromartinezleis/ML-Heart-Desease/blob/main/imagenes/mejores-resultados.jpg)
 
 ## Used Libraries
  * [Pandas](https://pandas.pydata.org/docs/)
